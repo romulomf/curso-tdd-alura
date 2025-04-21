@@ -24,7 +24,7 @@ public enum Desempenho {
 	};
 
 	private Desempenho() {
-		// construtor padr„o
+		// construtor padr√£o
 	}
 
 	public abstract BigDecimal percentualReajuste();

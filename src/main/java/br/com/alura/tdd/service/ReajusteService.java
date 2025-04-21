@@ -9,7 +9,7 @@ import br.com.alura.tdd.modelo.Funcionario;
 public class ReajusteService {
 
 	public ReajusteService() {
-		// construtor padr„o
+		// construtor padr√£o
 	}
 
 	public void calcular(Funcionario funcionario, Desempenho desempenho) {
